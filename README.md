@@ -2,12 +2,12 @@
 
 ## Nome completo
 
-<iframe src="https://try.dot.net/&amp;fromGist=bc3f56db451231fbd0bfea553b609c26">
+<iframe src="https://try.dot.net/?bufferId=Program.cs&amp;fromGist=bc3f56db451231fbd0bfea553b609c26&amp;canshowgithubpanel=true">
 </iframe>
 
 <!-- blank line -->
 <figure class="code">
-  <iframe src="https://try.dot.net/&amp;fromGist=bc3f56db451231fbd0bfea553b609c26"> </iframe>
+  <iframe src="https://try.dot.net/?bufferId=Program.cs&amp;fromGist=bc3f56db451231fbd0bfea553b609c26&amp;canshowgithubpanel=true"> </iframe>
 </figure>
 <!-- blank line -->
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
